@@ -46,7 +46,7 @@ This project is ideal for **learning, prototyping, or small business use**.
 
 ### 📦 Inventory
 <p align="center">
-  <img src="preview/Product" width="80%">
+  <img src="preview/Products" width="80%">
 </p>
 
 ---
