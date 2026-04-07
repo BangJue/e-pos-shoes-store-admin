@@ -34,9 +34,19 @@ This project is ideal for **learning, prototyping, or small business use**.
   <img src="preview/Dashboard.png" width="80%">
 </p>
 
-### 🛒 Transaction System
+### 👟 Products
 <p align="center">
-  <img src="preview/transaksi.png" width="80%">
+  <img src="preview/Transactions.png" width="80%">
+</p>
+
+### 📋 Reports
+<p align="center">
+  <img src="preview/Reports.png" width="80%">
+</p>
+
+### 📦 Inventory
+<p align="center">
+  <img src="preview/Products" width="80%">
 </p>
 
 ---
