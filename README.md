@@ -29,11 +29,9 @@ This project is ideal for **learning, prototyping, or small business use**.
 
 ## 📸 Preview
 
-> ⚠️ Add your real screenshots or GIFs here
-
 ### 🖥️ Dashboard
 <p align="center">
-  <img src="preview/dashboard.png" width="80%">
+  <img src="preview/Dashboard.png" width="80%">
 </p>
 
 ### 🛒 Transaction System
