@@ -85,9 +85,13 @@ This project is ideal for **learning, prototyping, or small business use**.
 
 ## 📁 Project Structure
 /admin # Admin dashboard
+</br>
 /assets # CSS, JS, images
+</br>
 /config # Database configuration
+</br>
 /proses # Core logic (CRUD, transactions)
+</br>
 /database # SQL files
 
 ---
