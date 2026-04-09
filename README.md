@@ -77,7 +77,7 @@ This project is ideal for **learning, prototyping, or small business use**.
 | Category   | Technology |
 |------------|-----------|
 | Backend    | PHP Native |
-| Frontend   | HTML, CSS, JavaScript |
+| Frontend   | HTML, Tailwind, JavaScript |
 | Database   | MySQL |
 | Server     | Apache (XAMPP / Laragon) |
 
